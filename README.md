@@ -1,5 +1,8 @@
-# TOC
+## table of content
 
 - docker 
 	- [images](docker/docker/images.md)
-- [cmd](cmd.md)
+- mongodb
+	- [cmd](mongodb/cmd.md)
+- postgres
+	- [cmd](postgres/cmd.md)
