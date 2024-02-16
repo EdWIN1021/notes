@@ -15,3 +15,6 @@
 
 ### Go
 - [cmd](go/cmd.md)
+
+### JavaScript
+- [strict mode](javascript/strict-mode.md)
