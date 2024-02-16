@@ -10,3 +10,5 @@
 ### postgres
 - [cmd](postgres/cmd.md)
 
+### nginx
+- [cmd](ngnix/cmd.md)
