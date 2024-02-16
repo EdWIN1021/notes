@@ -1,10 +1,12 @@
 ## table of content
 
-- docker 
-	- [images](docker/docker/images.md)
 
-- mongodb
-	- [cmd](mongodb/cmd.md)
+### docker 
+- [images](docker/docker/images.md)
 
-- postgres
-	- [cmd](postgres/cmd.md)
+### mongodb
+-  [cmd](mongodb/cmd.md)
+
+### postgres
+- [cmd](postgres/cmd.md)
+
