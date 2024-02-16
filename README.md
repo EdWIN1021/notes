@@ -1,4 +1,4 @@
-# docker-cheatsheet
+# Images
 
 ### postgres
 
