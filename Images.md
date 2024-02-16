@@ -1,5 +1,3 @@
-# Images
-
 ### postgres
 
 ```docker
