@@ -2,10 +2,10 @@
 
 ### docker 
 - [images](docker/images.md)
-- [docker-compose](docker-compose.md)
+- [docker-compose](doccker/docker-compose.md)
 
 ### mongo
--  [cmd](cheatsheet/mongo/cmd.md)
+-  [cmd](mongo/cmd.md)
 
 ### postgres
 - [cmd](postgres/cmd.md)
