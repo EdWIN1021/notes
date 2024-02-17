@@ -35,7 +35,7 @@ kubectl describe pod <pod-name>
 - update image with new tag
 
 ```shell
-kubectl set image deployment/first-app <container-name>=<image-name>:<new-tag>
+kubectl set image deployment/<deployment-name> <container-name>=<image-name>:<new-tag>
 ```
 
 ---

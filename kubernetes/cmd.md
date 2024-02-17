@@ -124,3 +124,8 @@ kubectl scale deployment/<deployment-name> --replicas=1
 ```shell
 kubectl logs <pod-name>
 ```
+
+### Execute commands
+```shell
+kubectl exec -it <pod-name> bash
+```
