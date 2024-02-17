@@ -1,6 +1,7 @@
 # kubernetes
 
 - [cmd](cmd.md)
+- [yaml](yaml.md)
 
 
 ---

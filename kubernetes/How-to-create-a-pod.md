@@ -5,7 +5,7 @@
 
 - create a docker image
 
-```docker
+```shell
 docker build -t <image-name> .
 ```
 
@@ -15,7 +15,7 @@ docker build -t <image-name> .
 
 - push the image to docker hub
 
-```docker 
+```shell 
 docker push <image-name>
 ```
 
@@ -25,7 +25,7 @@ docker push <image-name>
 
 - create deployment
 
-```docker 
+```shell 
 kubectl create deployment <deployment-name> --image=<image-name>
 ```
 
@@ -35,7 +35,7 @@ kubectl create deployment <deployment-name> --image=<image-name>
 
 - create service
 
-```docker
+```shell
 kubectl expose deployment <deployment-name> --type=LoadBalancer --port=8080
 ```
 
