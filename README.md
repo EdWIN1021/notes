@@ -11,4 +11,5 @@
 
 --- 
 - [javascript](javascript/toc.md)
+- [typescript](typescript/toc.md)
 - [go](go/toc.md)
