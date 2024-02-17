@@ -1,15 +1,15 @@
 ## table of content
 
-- [docker](docker/toc.md) 
+- [docker](docker/README.md) 
 - [kubernetes](kubernetes/README.md)
-- [nginx](ngnix/toc.md)
+- [nginx](ngnix/README.md)
 
 ---
 
 - [mongo](mongo/README.md)
-- [postgres](postgres/toc.md)
+- [postgres](postgres/README.md)
 
 --- 
-- [javascript](javascript/toc.md)
-- [typescript](typescript/toc.md)
-- [go](go/toc.md)
+- [javascript](javascript/README.md)
+- [typescript](typescript/README.md)
+- [go](go/README.md)
