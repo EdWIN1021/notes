@@ -1,7 +1,7 @@
 ## table of content
 
 - [docker](docker/toc.md) 
-- [kubernetes](kubernetes/toc.md)
+- [kubernetes](kubernetes/README.md)
 - [nginx](ngnix/toc.md)
 
 ---
