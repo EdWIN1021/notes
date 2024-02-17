@@ -1,2 +1,2 @@
 - [strict mode](strict-mode.md)
-- [[event-loop]]
+- [event-loop](event-loop.md)
