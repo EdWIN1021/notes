@@ -53,3 +53,17 @@ kubectl rollout restart deployment <deployment-name>
 ```shell
 kubectl get services
 ```
+
+### Create Service
+- NodePort, LoadBalancer, ClusterIP
+```shell
+kubectl expose deployment <deployment-name> --type=LoadBalancer --port=8080
+```
+
+### Scale
+
+- replicas: number of pods 
+
+```shell
+kubectl scale deployment/<deployment-name> --replicas=1
+```
