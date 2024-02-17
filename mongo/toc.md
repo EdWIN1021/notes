@@ -1,1 +1,0 @@
--  [cmd](cheatsheet/mongo/cmd.md)

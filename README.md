@@ -6,7 +6,7 @@
 
 ---
 
-- [mongo](mongo/toc.md)
+- [mongo](mongo/README.md)
 - [postgres](postgres/toc.md)
 
 --- 
