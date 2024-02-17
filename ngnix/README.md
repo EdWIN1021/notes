@@ -1,2 +1,3 @@
 # ngnix
 
+- [cmd](cmd.md)

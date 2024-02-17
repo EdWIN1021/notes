@@ -1,2 +1,3 @@
 # go
 
+- [cmd](cmd.md)
