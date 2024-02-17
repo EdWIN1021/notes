@@ -14,6 +14,8 @@ kubectl version
 kubectl apply -f <file>.yml
 ```
 
+---
+
 ### Show Pods
 ```shell
 kubectl get pods
@@ -24,10 +26,12 @@ kubectl get pods
 kubectl delete pod <pod-name>
 ```
 
-### Show Logs
+### Get pod info
 ```shell
-kubectl logs <pod-name>
+kubectl describe pod <pod-name>
 ```
+
+--- 
 
 ### Create Deployment
 ```shell
@@ -49,6 +53,13 @@ kubectl delete deployments <deployment-name>
 kubectl rollout restart deployment <deployment-name>
 ```
 
+### Get Deployment info
+```shell
+kubectl describe deployment <deployment-name>
+```
+
+---
+
 ### Show Services
 ```shell
 kubectl get services
@@ -60,10 +71,56 @@ kubectl get services
 kubectl expose deployment <deployment-name> --type=LoadBalancer --port=8080
 ```
 
+### Get Service Info
+
+```shell
+kubectl describe services <service-name>
+```
+
+---
+
+### Rollout History
+
+```shell
+kubectl rollout history deployment/<deployment-name>
+```
+
+### Revision
+```shell
+kubectl rollout history deployment/<deployment-name> --revision=<revision-id>
+```
+
+
+### Rollout State
+
+```shell
+kubectl rollout status deployment/<deployment-name>
+```
+
+### Roll back
+
+```shell
+kubectl rollout undo deployment/<deployment-name>
+```
+ 
+### Roll back to specific revision
+
+```shell
+kubectl rollout undo deployment/<deployment-name> --to-revision=<revision-id>
+```
+
+---
+
 ### Scale
 
 - replicas: number of pods 
 
 ```shell
 kubectl scale deployment/<deployment-name> --replicas=1
+```
+
+### Show Logs
+
+```shell
+kubectl logs <pod-name>
 ```
