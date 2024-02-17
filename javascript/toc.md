@@ -1,2 +1,3 @@
 - [strict mode](strict-mode.md)
 - [event-loop](event-loop.md)
+- [hoisting](hoisting.md)
