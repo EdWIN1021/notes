@@ -6,11 +6,11 @@ Hoisting is a behavior in JavaScript where variable and function declarations ar
 ```js
 // undefined 
 console.log(a);
-var a = "qwe";
+var a = "foo";
 
 // Cannot access 'a' before initialization const a = "qwe";
 console.log(a); 
-var a = "qwe"; 
+var a = "bar"; 
 ```
 
 ### TDZ (Temporal Dead Zone)
