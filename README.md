@@ -1,20 +1,14 @@
 ## table of content
 
-### Docker 
-- [images](docker/images.md)
-- [docker-compose](docker/docker-compose.md)
+- [docker](docker/toc.md) 
+- [kubernetes](kubernetes/toc.md)
+- [nginx](ngnix/toc.md)
 
-### Mongo
--  [cmd](mongo/cmd.md)
+---
 
-### Postgres
-- [cmd](postgres/cmd.md)
+- [mongo](mongo/toc.md)
+- [postgres](postgres/toc.md)
 
-### Nginx
-- [cmd](ngnix/cmd.md)
-
-### Go
-- [cmd](go/cmd.md)
-
-### JavaScript
-- [strict mode](javascript/strict-mode.md)
+--- 
+- [javascript](javascript/toc.md)
+- [go](go/toc.md)
