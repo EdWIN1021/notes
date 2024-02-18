@@ -5,16 +5,13 @@
 # https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 apiVersion: apps/v1
 
-# deployment
 kind: Deployment
 
 metadata:
   name: <deployment-name>
   
 spec:
-  # number of pods
-  replicas: 1
-
+  replicas: 1 # number of pods
   selector:
     matchLabels:
       app: <app-name>
@@ -27,9 +24,7 @@ spec:
     spec:
       containers: 
         - name: <container-name>
-
-          # image on docker hub
-          image: <image-name>:<tag>
+          image: <image-name>:<tag> # image on docker hub
 
 ```
 
