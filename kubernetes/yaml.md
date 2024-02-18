@@ -25,6 +25,12 @@ spec:
       containers: 
         - name: <container-name>
           image: <image-name>:<tag> # image on docker hub
+          livenessProbe: # automatically restart containers
+            httpGet:
+			  path: /
+			  port: 8080
+          periodSeconds: 10
+          initialDelaySeconds: 5
 
 ```
 
