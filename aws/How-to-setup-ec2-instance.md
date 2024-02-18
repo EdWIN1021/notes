@@ -1,4 +1,4 @@
-# EC2 instance
+## EC2 instance
 
 ```bash
 chmod 400 "<key>.pem"
@@ -56,16 +56,14 @@ docker push
 docker run
 ```
 
-### Install jenkins
-
-Add the Jenkins repo using the following command
+### Add the Jenkins repo using the following command
 
 ```
 sudo wget -O /etc/yum.repos.d/jenkins.repo \\
     <https://pkg.jenkins.io/redhat-stable/jenkins.repo>
 ```
 
-Import a key file from Jenkins-CI to enable installation from the package
+### Import a key file from Jenkins-CI to enable installation from the package
 
 ```
 sudo rpm --import <https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key>
@@ -117,4 +115,4 @@ sudo usermod -aG docker jenkins
 sudo systemctl restart jenkins
 ```
 
-Add Inbound rules
+### Add Inbound rules
