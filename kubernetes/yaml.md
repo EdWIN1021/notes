@@ -32,3 +32,24 @@ spec:
           image: <image-name>:<tag>
 
 ```
+
+---
+
+## Service
+
+```yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: <service-name>
+
+spec:
+  selector:
+    app: <deployment-name>
+
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: <container-port>
+  type: LoadBalancer
+```

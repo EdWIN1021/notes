@@ -46,6 +46,8 @@ kubectl get deployments
 ### Delete  Deployment
 ```shell
 kubectl delete deployments <deployment-name>
+
+kubectl delete -f=deployment.yaml
 ```
 
 ### Restart Deployment
