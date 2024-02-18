@@ -81,37 +81,37 @@ sudo yum upgrade
 sudo yum install java-17-amazon-corretto
 ```
 
-Install Jenkins
+### Install Jenkins
 
 ```
 sudo yum install jenkins -y
 ```
 
-Enable the Jenkins service to start at boot
+### Enable the Jenkins service to start at boot
 
 ```
 sudo systemctl enable jenkins
 ```
 
-Start Jenkins as a service
+### Start Jenkins as a service
 
 ```
 sudo systemctl start jenkins
 ```
 
-check the status and `key` of the Jenkins service using the command
+### check the status and `key` of the Jenkins service using the command
 
 ```
 sudo systemctl status jenkins
 ```
 
-add jenkins user to docker group
+### add jenkins user to docker group
 
 ```
 sudo usermod -aG docker jenkins
 ```
 
-Restart jekins
+### Restart jekins
 
 ```
 sudo systemctl restart jenkins
