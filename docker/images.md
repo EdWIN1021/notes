@@ -14,7 +14,7 @@ docker run --name <container-name> -e MYSQL_ROOT_PASSWORD=secret -d mysql:<tag>
 ### mongodb
 
 ```shell
-docker run --name <container-name> -e MONGO_INITDB_ROOT_USERNAME=edwin -e MONGO_INITDB_ROOT_PASSWORD=secret -p 27017:27017 -d mongo
+docker run --name <container-name> -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=secret -p 27017:27017 -d mongo
 ```
 
 ### nginx
