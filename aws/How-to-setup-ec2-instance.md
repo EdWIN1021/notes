@@ -116,3 +116,5 @@ sudo systemctl restart jenkins
 ```
 
 ### Add Inbound rules
+<img width="1080" alt="Untitled" src="https://github.com/EdWIN1021/cheatsheet/assets/17692914/f127b934-b5c9-4274-96e9-419664fbfb30">
+
