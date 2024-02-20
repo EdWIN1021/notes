@@ -12,7 +12,7 @@
 - [postgres](postgres/README.md)
 
 ---
-
+- [html](html/README.md)
 - [javascript](javascript/README.md)
 - [typescript](typescript/README.md)
 - [go](go/README.md)
