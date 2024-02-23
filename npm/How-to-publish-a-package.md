@@ -13,3 +13,19 @@
 ```shell
 npm publish --access public
 ```
+
+---
+
+### Update Package
+
+- increment version number
+
+```shell
+npm version patch
+```
+
+- push to npm 
+
+```shell
+npm publish
+```
