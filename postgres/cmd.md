@@ -23,3 +23,8 @@ su - postgres
 ```shell
 \dt
 ```
+
+### Login
+```shell
+psql -d <db-name> -U <username>
+```
