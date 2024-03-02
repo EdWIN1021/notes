@@ -4,4 +4,5 @@
 	- [Static Variables](Static%20Variables.md)
 	- [Static Methods](Static%20Methods.md)
 	-  [POJO](POJO.md)
+	- [Record](Record.md)
   
