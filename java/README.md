@@ -1,4 +1,6 @@
-- [primitive types](Primitive-Types.md)
+- [primitive types](Primitive%20Types.md)
 - class
-	- [Access-Control](Access-Control.md)
+	- [Access Control](Access%20Control.md)
+	- [Static Variables](Static%20Variables.md)
+	- [Static Methods](Static%20Methods.md)
   
