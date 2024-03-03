@@ -3,6 +3,8 @@
 - [docker-compose](docker-compose.md)
 - [docker image](docker-image.md)
 - [bind mount](bind-mount.md)
+- [docker info](docker-info.md)
+
 
 ---
 

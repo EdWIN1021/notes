@@ -5,4 +5,4 @@
 	- [Static Methods](Static%20Methods.md)
 	-  [POJO](POJO.md)
 	- [Record](Record.md)
-  
+- [Garbage Collection](Garbage-Collection.md)
