@@ -16,4 +16,5 @@
 ```java
 Integer.MIN_VALUE
 Integer.MAX_VALUE
+Integer.valueOf(15)
 ```

@@ -38,3 +38,4 @@
 - [Primitive types](Primitive%20Types.md)
 - [Garbage Collection](Garbage%20Collection.md)
 - [Collections](Collections.md)
+- [Boxing](Boxing.md)
