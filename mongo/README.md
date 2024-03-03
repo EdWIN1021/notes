@@ -1,3 +1,3 @@
 # mongo
--  [cmd](cmd.md)
+-  [cmd](mongo/cmd.md)
 

@@ -1,3 +1,3 @@
 # go
 
-- [cmd](cmd.md)
+- [cmd](go/cmd.md)

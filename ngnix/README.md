@@ -1,3 +1,3 @@
 # ngnix
 
-- [cmd](cmd.md)
+- [cmd](ngnix/cmd.md)
