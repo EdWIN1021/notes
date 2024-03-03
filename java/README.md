@@ -6,3 +6,4 @@
 	-  [POJO](POJO.md)
 	- [Record](Record.md)
 - [Garbage Collection](Garbage-Collection.md)
+- [Collections](Collections.md)
