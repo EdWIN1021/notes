@@ -1,9 +1,22 @@
-- [primitive types](Primitive%20Types.md)
-- class
+- [Primitive types](Primitive%20Types.md)
+- Classes
 	- [Access Control](Access%20Control.md)
 	- [Static Variables](Static%20Variables.md)
 	- [Static Methods](Static%20Methods.md)
 	-  [POJO](POJO.md)
 	- [Record](Record.md)
-- [Garbage Collection](Garbage-Collection.md)
+	- [Abstract Class](Abstract%20Class.md)
+	- [Constructor](Constructor.md)
+	- [Inheritance](Inheritance.md)
+- Operators
+	- [new](new.md)
+	
+- Keywords
+	- [this](this.md)
+	- [super](super.md)
+	- [final](keywords/final.md)
+- Methods
+	- [Overloading](Overloading.md)
+	- [Recursion](Recursion.md)
+- [Garbage Collection](Garbage%20Collection.md)
 - [Collections](Collections.md)
