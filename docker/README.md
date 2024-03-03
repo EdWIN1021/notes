@@ -3,7 +3,10 @@
 - [docker-compose](docker-compose.md)
 - [docker image](docker-image.md)
 - [bind mount](bind-mount.md)
+- [docker kill](docker-kill.md)
+- [docker cp](docker-cp.md)
 - [docker info](docker-info.md)
+- [docker version](docker-version.md)
 
 
 ---
