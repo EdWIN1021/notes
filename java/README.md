@@ -2,7 +2,7 @@
 
 - [Inheritance](classes/Inheritance.md)
 -  [Composition](classes/Composition.md)
-- [Encapsulation](classes/Encapsulation.md)
+- Encapsulation
 	- [Access Control](classes/Access%20Control.md)
 - [Polymorphism](classes/Polymorphism.md)
 - [Static Variables](Static%20Variables.md)
