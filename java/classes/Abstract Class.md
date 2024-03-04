@@ -1,4 +1,4 @@
-## Abstract Class
+# Abstract Class
 
 - The abstract class is decleared with the abstract modifier
 - Can not create an instance of an abstract class
