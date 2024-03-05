@@ -1,4 +1,4 @@
-# Interfaces
+# Interface
 
 ### Declaring an interface
 
