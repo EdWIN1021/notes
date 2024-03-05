@@ -42,3 +42,11 @@ public static final double MILES_TO_KM = 1.60934;
 ```java
 public interface FlightEnabled {}
 ```
+
+
+### Extension method
+
+- An extension method is identified by the modifier default, so it's more commonly known as the default method
+- This method is a concrete method, meaning it has a code block, and we can add statements to it.
+- It has to have a method, even just an empty set of curly braces
+- it's a lot like a method on a superclass, because we can override it
