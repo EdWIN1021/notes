@@ -21,11 +21,12 @@
 - [go](go/README.md)
 - [python](python/README.md)
 
----
+### Frameworks
 
-[nextjs](nextjs/README.md)
-[spring boot](spring-boot/README.md)
+- [nextjs](nextjs/README.md)
+- [spring boot](spring-boot/README.md)
 
----
 
-[linux](linux/README)
+### OS
+
+- [linux](linux/README)
