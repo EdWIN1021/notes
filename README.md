@@ -24,13 +24,13 @@
 
 ### Tools
 
-- [docker](docker/README.md) 
-- [kubernetes](kubernetes/README.md)
-- [nginx](ngnix/README.md)
-- [aws](aws/README.md)
-- [restful](restful/README.md)
-- [npm](npm/README.md)
+- [docker](tools/docker/README.md) 
+- [kubernetes](tools/kubernetes/README.md)
+- [nginx](tools/ngnix/README.md)
+- [aws](tools/aws/README.md)
+- [restful](tools/restful/README.md)
+- [npm](tools/npm/README.md)
 
 ### OS
 
-- [linux](linux/README)
+- [linux](os/linux/README.md)
