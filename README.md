@@ -13,8 +13,8 @@
 
 ### Database
 
-- [mongo](mongo/README.md)
-- [postgres](postgres/README.md)
+- [mongo](databases/mongo/README.md)
+- [postgres](databases/postgres/README.md)
 
 
 ### Frameworks
