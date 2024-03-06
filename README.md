@@ -19,8 +19,8 @@
 
 ### Frameworks
 
-- [nextjs](nextjs/README.md)
-- [spring boot](spring-boot/README.md)
+- [nextjs](frameworks/nextjs/README.md)
+- [spring boot](frameworks/spring-boot/README.md)
 
 ### Tools
 
