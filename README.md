@@ -1,7 +1,6 @@
 # Table of content
 
 - [docker](docker/README.md) 
-	- 123
 - [kubernetes](kubernetes/README.md)
 - [nginx](ngnix/README.md)
 - [aws](aws/README.md)
@@ -10,8 +9,8 @@
 
 ### Database
 
-[mongo](mongo/README.md)
-[postgres](postgres/README.md)
+- [mongo](mongo/README.md)
+- [postgres](postgres/README.md)
 
 ---
 
