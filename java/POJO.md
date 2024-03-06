@@ -1,4 +1,4 @@
-## POJO
+# POJO
 
 - A plain old Java object is a class that generally only has instance fields.
 - It is used to house data, and pass data, between functional classes.
