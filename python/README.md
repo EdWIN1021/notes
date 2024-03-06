@@ -1,1 +1,0 @@
-- [cmd](python/cmd.md)

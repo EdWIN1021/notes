@@ -1,10 +1,10 @@
 ## Classes
 
-- [Inheritance](classes/Inheritance.md)
--  [Composition](classes/Composition.md)
+- [Inheritance](Inheritance.md)
+-  [Composition](Composition.md)
 - Encapsulation
-	- [Access Control](classes/Access%20Control.md)
-- [Polymorphism](classes/Polymorphism.md)
+	- [Access Control](Access%20Control.md)
+- [Polymorphism](Polymorphism.md)
 - [Static Variables](Static%20Variables.md)
 - [Static Methods](Static%20Methods.md)
 -  [POJO](POJO.md)
@@ -25,7 +25,7 @@
 
 - [this](this.md)
 - [super](super.md)
--  [final](keywords/final.md)
+-  [final](final.md)
 
 ---
 
