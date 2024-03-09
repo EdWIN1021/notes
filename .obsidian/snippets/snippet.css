@@ -19,11 +19,13 @@ body {
   --link-decoration: none;
 
   letter-spacing: var(--letter-spacing);
+
   --code-function: #4078c0;
   --code-operator: #4078c0;
+  --code-property: var(--primary-color);
+
   --code-value: #4078c0;
-  --code-keyword: #bd2c00;
-  --code-property: #333;
+  --code-keyword: var(--primary-color);
   --code-string: #333;
 
   /*
