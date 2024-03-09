@@ -20,8 +20,9 @@ body {
 
   letter-spacing: var(--letter-spacing);
   --code-function: #4078c0;
-  --code-keyword: #bd2c00;
   --code-operator: #4078c0;
+  --code-value: #4078c0;
+  --code-keyword: #bd2c00;
   --code-property: #333;
   --code-string: #333;
 
@@ -31,7 +32,6 @@ body {
   --code-important	
   --code-punctuation	
   --code-tag	
-  --code-value 
   */
 }
 
