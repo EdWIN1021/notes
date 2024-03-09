@@ -1,7 +1,7 @@
 :root {
   --primary-color: rgb(221, 76, 79);
-
   --highlight-color: rgb(211, 255, 164);
+  --letter-spacing: 0.0187rem;
 }
 
 body {
@@ -13,4 +13,26 @@ body {
 
   --list-marker-color: var(--primary-color);
   --list-spacing: 5px;
+
+  --link-color: var(--primary-color);
+  --link-color-hover: var(--primary-color);
+  --link-decoration: none;
+
+  letter-spacing: var(--letter-spacing);
+
+  /* --code-normal	
+  --code-comment	
+  --code-function	
+  --code-important	
+  --code-keyword
+  --code-operator	
+  --code-property	
+  --code-punctuation	
+  --code-string	
+  --code-tag	
+  --code-value */
+}
+
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+  letter-spacing: var(--letter-spacing);
 }

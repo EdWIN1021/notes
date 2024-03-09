@@ -16,3 +16,5 @@
 ### package
 
 - When a member does not have an explicit access specification, it is visible to subclasses as well as to other class in the same package.
+
+#ads
