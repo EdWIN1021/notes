@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/java/Interfaces/Comparable vs Comparator.md",
+                "file": "programming-languages/java/Generics.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/java/Interfaces/Comparable vs Comparator.md",
+                "file": "programming-languages/java/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/java/Interfaces/Comparable vs Comparator.md",
+                "file": "programming-languages/java/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/java/Interfaces/Comparable vs Comparator.md"
+                "file": "programming-languages/java/Generics.md"
               }
             }
           }
@@ -150,30 +150,30 @@
   "lastOpenFiles": [
     "programming-languages/java/Interfaces/Comparable.md",
     "programming-languages/java/Interfaces/Comparable vs Comparator.md",
-    "programming-languages/java/Interfaces/Interface.md",
-    "programming-languages/java/Interfaces/Functional Interface.md",
-    "programming-languages/java/Interfaces/Comparator.md",
-    "programming-languages/java/Classes/Static Variables.md",
+    "programming-languages/java/Classes/Abstract Class.md",
+    "programming-languages/java/Classes/Access Control.md",
+    "programming-languages/java/Classes/Class.md",
+    "programming-languages/java/Classes/Composition.md",
+    "programming-languages/java/Classes/Constructor.md",
+    "programming-languages/java/Classes/Encapsulation.md",
+    "programming-languages/java/Classes/POJO.md",
+    "programming-languages/java/Classes/Polymorphism.md",
+    "programming-languages/java/Classes/Static Methods.md",
+    "programming-languages/java/Generics.md",
+    "programming-languages/java/Methods/Generic Method.md",
+    "programming-languages/java/Classes/Inheritance.md",
+    "programming-languages/java/Classes/Record.md",
+    "programming-languages/java/Methods/Methods Modifiers.md",
     "programming-languages/java/Methods/Overloading.md",
+    "programming-languages/java/Interfaces/Comparator.md",
+    "programming-languages/java/Interfaces/Functional Interface.md",
+    "programming-languages/java/Interfaces/Interface.md",
+    "programming-languages/java/Classes/Static Variables.md",
     "programming-languages/java/Methods/Overriding.md",
     "programming-languages/java/Garbage Collection.md",
     "programming-languages/javascript/hoisting.md",
     "programming-languages/javascript/lexical-environment.md",
     "programming-languages/javascript/function-invocation.md",
-    "programming-languages/java/Lambda.md",
-    "programming-languages/java/Primitive Types.md",
-    "programming-languages/java/Collections.md",
-    "programming-languages/java/Methods/Recursion.md",
-    "programming-languages/java/Classes/Record.md",
-    "programming-languages/java/Classes/Polymorphism.md",
-    "programming-languages/java/Classes/Static Methods.md",
-    "programming-languages/java/Keywords/super.md",
-    "programming-languages/java/Keywords/this.md",
-    "programming-languages/java/Boxing.md",
-    "programming-languages/java/Keywords/final.md",
-    "programming-languages/java/Keywords/new.md",
-    "programming-languages/java/Classes/Constructor.md",
-    "programming-languages/java/Classes/Composition.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
