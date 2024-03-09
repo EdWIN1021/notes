@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "",
+  "interfaceFontFamily": "Avenir",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "Cascadia Code",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
+}

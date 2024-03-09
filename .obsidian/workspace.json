@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0c6ce0d66e66741b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41f359cba20b7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d128835f097fd22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-languages/java/Classes/Class.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0cf20b6707072dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bdf3febd75ab185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c6b135681829ea4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c61353d0af4b7611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f572853fcaae7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c03668a239bd85dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86405eaf334ffcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f064048779e5ed34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming-languages/java/Classes/Class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c5fa4ad3ad2e66b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming-languages/java/Classes/Class.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f7692fabfb80dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bb70071c7931251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming-languages/java/Classes/Class.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d128835f097fd22a",
+  "lastOpenFiles": [
+    "programming-languages/java/Classes/Composition.md",
+    "programming-languages/java/Classes/Encapsulation.md",
+    "programming-languages/java/Classes/Class.md",
+    "programming-languages/java/Classes/Constructor.md",
+    "programming-languages/java/Classes/Inheritance.md",
+    "programming-languages/java/Classes/Access Control.md",
+    "programming-languages/java/Classes/Abstract Class.md",
+    "programming-languages/java/Interfaces/Comparator.md",
+    "programming-languages/java/Interfaces/Comparable.md",
+    "programming-languages/java/Interfaces/Interface.md",
+    "programming-languages/java/Keywords/this.md",
+    "programming-languages/java/Keywords/super.md",
+    "programming-languages/java/Keywords/new.md",
+    "programming-languages/java/Keywords/final.md",
+    "programming-languages/java/Interfaces/Functional Interface.md",
+    "makefile",
+    "tools/restful/README.md",
+    "tools/Jenkins/README.md",
+    "tools/docker/bind-mount.md",
+    "programming-languages/go/Slices with overlapping storage.md",
+    "programming-languages/go/The Zero Value.md",
+    "programming-languages/go/make.md",
+    "programming-languages/go/clear.md",
+    "programming-languages/go/README.md",
+    "programming-languages/go/cmd.md",
+    "Welcome to Bear 👋.md",
+    "programming-languages/go/main.md",
+    "programming-languages/java/Untitled",
+    "os",
+    "tools",
+    "frameworks",
+    "databases",
+    "programming-languages",
+    "tools/Jenkins",
+    "programming-languages/java/Interfaces",
+    "programming-languages/java/Methods"
+  ]
+}
