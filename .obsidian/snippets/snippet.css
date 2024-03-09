@@ -19,18 +19,20 @@ body {
   --link-decoration: none;
 
   letter-spacing: var(--letter-spacing);
+  --code-function: #4078c0;
+  --code-keyword: #bd2c00;
+  --code-operator: #4078c0;
+  --code-property: #333;
+  --code-string: #333;
 
-  /* --code-normal	
+  /*
+  --code-normal
   --code-comment	
-  --code-function	
   --code-important	
-  --code-keyword
-  --code-operator	
-  --code-property	
   --code-punctuation	
-  --code-string	
   --code-tag	
-  --code-value */
+  --code-value 
+  */
 }
 
 .markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
