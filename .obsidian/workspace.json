@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/linux/README.md",
+                "file": "tools/kubernetes/cmd.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/linux/README.md",
+                "file": "tools/kubernetes/cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/linux/README.md",
+                "file": "tools/kubernetes/cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/linux/README.md"
+                "file": "tools/kubernetes/cmd.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "d128835f097fd22a",
   "lastOpenFiles": [
+    "tools/kubernetes/How-to-create-a-pod.md",
+    "tools/kubernetes/How-to-update-a-pod.md",
+    "tools/kubernetes/How-to-use-env-variables.md",
+    "tools/kubernetes/yaml.md",
+    "tools/kubernetes/README.md",
+    "tools/kubernetes/cmd.md",
+    "os/linux/README.md",
     "frameworks/spring-boot/HttpStatus.md",
     "frameworks/spring-boot/application.properties.md",
     "frameworks/spring-boot/Spring Boot DevTools.md",
@@ -169,13 +176,6 @@
     "programming-languages/python/README.md",
     "tools/aws/How-to-setup-ec2-instance.md",
     "programming-languages/go/The Zero Value.md",
-    "programming-languages/go/Slices with overlapping storage.md",
-    "programming-languages/go/README.md",
-    "programming-languages/go/make.md",
-    "programming-languages/go/cmd.md",
-    "os/linux/README.md",
-    "programming-languages/java/Generics.md",
-    "programming-languages/java/Interfaces/Comparable.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",

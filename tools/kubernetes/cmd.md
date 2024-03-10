@@ -191,3 +191,9 @@ kubectl create secret generic jwt-secret --from-literal=JWT_KEY=<secret>
 ```shell
 kubectl get secrets
 ```
+
+### Port Forward
+
+```shell
+kubectl port-forward <pod-name> 4222:4222
+```
