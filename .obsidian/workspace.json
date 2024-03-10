@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/java/Generics.md",
-                "mode": "preview",
+                "file": "tools/JWT/README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/java/Generics.md",
+                "file": "tools/JWT/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/java/Generics.md",
+                "file": "tools/JWT/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/java/Generics.md"
+                "file": "tools/JWT/README.md"
               }
             }
           }
@@ -146,8 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d128835f097fd22a",
+  "active": "6c6b135681829ea4",
   "lastOpenFiles": [
+    "programming-languages/javascript/event-loop.md",
+    "tools/JWT/README.md",
+    "tools/JWT",
+    "programming-languages/javascript/function-invocation.md",
+    "programming-languages/python/cmd.md",
+    "programming-languages/typescript/tsconfig.md",
+    "programming-languages/typescript/README.md",
+    "programming-languages/typescript/How-add-new-property-to-existing-type.md",
+    "programming-languages/typescript/DOM.md",
+    "programming-languages/python/README.md",
+    "tools/aws/How-to-setup-ec2-instance.md",
+    "programming-languages/go/The Zero Value.md",
+    "programming-languages/go/Slices with overlapping storage.md",
+    "programming-languages/go/README.md",
+    "programming-languages/go/make.md",
+    "programming-languages/go/cmd.md",
+    "os/linux/README.md",
+    "programming-languages/java/Generics.md",
     "programming-languages/java/Interfaces/Comparable.md",
     "programming-languages/java/Interfaces/Comparable vs Comparator.md",
     "programming-languages/java/Classes/Abstract Class.md",
@@ -157,23 +175,6 @@
     "programming-languages/java/Classes/Constructor.md",
     "programming-languages/java/Classes/Encapsulation.md",
     "programming-languages/java/Classes/POJO.md",
-    "programming-languages/java/Classes/Polymorphism.md",
-    "programming-languages/java/Classes/Static Methods.md",
-    "programming-languages/java/Generics.md",
-    "programming-languages/java/Methods/Generic Method.md",
-    "programming-languages/java/Classes/Inheritance.md",
-    "programming-languages/java/Classes/Record.md",
-    "programming-languages/java/Methods/Methods Modifiers.md",
-    "programming-languages/java/Methods/Overloading.md",
-    "programming-languages/java/Interfaces/Comparator.md",
-    "programming-languages/java/Interfaces/Functional Interface.md",
-    "programming-languages/java/Interfaces/Interface.md",
-    "programming-languages/java/Classes/Static Variables.md",
-    "programming-languages/java/Methods/Overriding.md",
-    "programming-languages/java/Garbage Collection.md",
-    "programming-languages/javascript/hoisting.md",
-    "programming-languages/javascript/lexical-environment.md",
-    "programming-languages/javascript/function-invocation.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
@@ -182,7 +183,6 @@
     "databases",
     "programming-languages",
     "tools/Jenkins",
-    "programming-languages/java/Interfaces",
-    "programming-languages/java/Methods"
+    "programming-languages/java/Interfaces"
   ]
 }
