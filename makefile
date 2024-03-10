@@ -4,7 +4,10 @@ help:
 	@echo "Available targets:"
 	@echo "  all         : Add changes, commit, and push to the remote repository"
 
-all: add commit push
+all: pull add commit push
+
+pull:
+	git pull
 
 add:
 	git add .
