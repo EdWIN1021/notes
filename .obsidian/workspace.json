@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frameworks/spring-boot/Connect to MySQL.md",
+                "file": "os/linux/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frameworks/spring-boot/Connect to MySQL.md",
+                "file": "os/linux/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frameworks/spring-boot/Connect to MySQL.md",
+                "file": "os/linux/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frameworks/spring-boot/Connect to MySQL.md"
+                "file": "os/linux/README.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c6b135681829ea4",
+  "active": "d128835f097fd22a",
   "lastOpenFiles": [
+    "frameworks/spring-boot/HttpStatus.md",
+    "frameworks/spring-boot/application.properties.md",
+    "frameworks/spring-boot/Spring Boot DevTools.md",
     "frameworks/spring-boot/Spring Security.md",
     "frameworks/spring-boot/Spring Data Rest.md",
+    "frameworks/spring-boot/README.md",
+    "frameworks/spring-boot/hibernate.md",
     "frameworks/spring-boot/Connect to MySQL.md",
     "tools/JWT/README.md",
     "programming-languages/Spring Boot",
@@ -171,11 +176,6 @@
     "os/linux/README.md",
     "programming-languages/java/Generics.md",
     "programming-languages/java/Interfaces/Comparable.md",
-    "programming-languages/java/Interfaces/Comparable vs Comparator.md",
-    "programming-languages/java/Classes/Abstract Class.md",
-    "programming-languages/java/Classes/Access Control.md",
-    "programming-languages/java/Classes/Class.md",
-    "programming-languages/java/Classes/Composition.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
