@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/Spring Boot/Spring Security.md",
+                "file": "frameworks/spring-boot/Connect to MySQL.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/Spring Boot/Spring Security.md",
+                "file": "frameworks/spring-boot/Connect to MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/Spring Boot/Spring Security.md",
+                "file": "frameworks/spring-boot/Connect to MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/Spring Boot/Spring Security.md"
+                "file": "frameworks/spring-boot/Connect to MySQL.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d128835f097fd22a",
+  "active": "6c6b135681829ea4",
   "lastOpenFiles": [
-    "programming-languages/Spring Boot/Spring Data Rest.md",
-    "programming-languages/Spring Boot/Spring Security.md",
-    "programming-languages/Spring Boot/Connect to MySQL.md",
+    "frameworks/spring-boot/Spring Security.md",
+    "frameworks/spring-boot/Spring Data Rest.md",
+    "frameworks/spring-boot/Connect to MySQL.md",
     "tools/JWT/README.md",
     "programming-languages/Spring Boot",
     "programming-languages/javascript/event-loop.md",
