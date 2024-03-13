@@ -1,3 +1,4 @@
+# Primitive Types
 
 |Whole Number|Real Number|Single Character|Boolean Value|
 |---|---|---|---|

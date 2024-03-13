@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/kubernetes/cmd.md",
-                "mode": "preview",
+                "file": "programming-languages/java/Nesting Classes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/kubernetes/cmd.md",
+                "file": "programming-languages/java/Nesting Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/kubernetes/cmd.md",
+                "file": "programming-languages/java/Nesting Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/kubernetes/cmd.md"
+                "file": "programming-languages/java/Nesting Classes.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "d128835f097fd22a",
   "lastOpenFiles": [
+    "programming-languages/java/Primitive Types.md",
+    "programming-languages/java/Nesting Classes.md",
+    "programming-languages/java/Generics.md",
+    "programming-languages/java/Lambda.md",
+    "tools/kubernetes/cmd.md",
     "tools/kubernetes/How-to-create-a-pod.md",
     "tools/kubernetes/How-to-update-a-pod.md",
     "tools/kubernetes/How-to-use-env-variables.md",
     "tools/kubernetes/yaml.md",
     "tools/kubernetes/README.md",
-    "tools/kubernetes/cmd.md",
     "os/linux/README.md",
     "frameworks/spring-boot/HttpStatus.md",
     "frameworks/spring-boot/application.properties.md",
@@ -172,10 +176,6 @@
     "programming-languages/typescript/tsconfig.md",
     "programming-languages/typescript/README.md",
     "programming-languages/typescript/How-add-new-property-to-existing-type.md",
-    "programming-languages/typescript/DOM.md",
-    "programming-languages/python/README.md",
-    "tools/aws/How-to-setup-ec2-instance.md",
-    "programming-languages/go/The Zero Value.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
