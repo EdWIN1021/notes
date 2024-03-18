@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d41f359cba20b7bf",
+        "id": "fc2cf883f339460c",
         "type": "tabs",
         "children": [
           {
-            "id": "d128835f097fd22a",
+            "id": "8939039feb5aac9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/java/Nesting Classes.md",
-                "mode": "source",
+                "file": "programming-languages/java/Collections.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/java/Nesting Classes.md",
+                "file": "programming-languages/java/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/java/Nesting Classes.md",
+                "file": "programming-languages/java/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/java/Nesting Classes.md"
+                "file": "programming-languages/java/Collections.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d128835f097fd22a",
+  "active": "8939039feb5aac9e",
   "lastOpenFiles": [
-    "programming-languages/java/Primitive Types.md",
-    "programming-languages/java/Nesting Classes.md",
-    "programming-languages/java/Generics.md",
+    "programming-languages/java/Functional Interface.md",
+    "databases/Mapping.md",
     "programming-languages/java/Lambda.md",
+    "programming-languages/java/Nesting Classes.md",
+    "programming-languages/java/Primitive Types.md",
+    "programming-languages/java/Generics.md",
     "tools/kubernetes/cmd.md",
     "tools/kubernetes/How-to-create-a-pod.md",
     "tools/kubernetes/How-to-update-a-pod.md",
@@ -174,8 +176,6 @@
     "programming-languages/javascript/function-invocation.md",
     "programming-languages/python/cmd.md",
     "programming-languages/typescript/tsconfig.md",
-    "programming-languages/typescript/README.md",
-    "programming-languages/typescript/How-add-new-property-to-existing-type.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
