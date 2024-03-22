@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/java/Collections.md",
+                "file": "databases/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/java/Collections.md",
+                "file": "databases/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/java/Collections.md",
+                "file": "databases/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/java/Collections.md"
+                "file": "databases/README.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "8939039feb5aac9e",
   "lastOpenFiles": [
+    "databases/postgres/README.md",
+    "databases/README.md",
+    "databases/mongo/README.md",
+    "tools/npm/How-to-publish-a-package.md",
+    "databases/postgres/cmd.md",
+    "programming-languages/java/Collections.md",
     "programming-languages/java/Functional Interface.md",
     "databases/Mapping.md",
     "programming-languages/java/Lambda.md",
@@ -168,14 +174,8 @@
     "frameworks/spring-boot/Spring Data Rest.md",
     "frameworks/spring-boot/README.md",
     "frameworks/spring-boot/hibernate.md",
-    "frameworks/spring-boot/Connect to MySQL.md",
-    "tools/JWT/README.md",
     "programming-languages/Spring Boot",
-    "programming-languages/javascript/event-loop.md",
     "tools/JWT",
-    "programming-languages/javascript/function-invocation.md",
-    "programming-languages/python/cmd.md",
-    "programming-languages/typescript/tsconfig.md",
     "makefile",
     "programming-languages/java/Untitled",
     "os",
