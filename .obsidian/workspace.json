@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a51841b2f08232b",
+        "id": "8905eab3eb15655e",
         "type": "tabs",
         "children": [
           {
-            "id": "c164da4582a1d78a",
+            "id": "2c9cd98bffc517fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Input System.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Input System"
             }
           }
         ]
@@ -69,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9ef53ac2657108c0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 788.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +190,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9dd896b8f4787a10",
+  "active": "2c9cd98bffc517fe",
   "lastOpenFiles": [
+    "Input System.md",
     "Sound Attenuation.md",
     "Weapon Trail.md",
     "Patrolling.md",
