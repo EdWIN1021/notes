@@ -1,6 +1,13 @@
-## Sprite Renderer
 
-## [[Animator]]
+## 2D
+---
+### Sprite Renderer
 
-## [[Rigidbody 2D]]
+### [[Animator]]
+
+### [[Rigidbody 2D]]
+
+### [[Capsule Collider 2D]]
+
+
 
