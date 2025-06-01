@@ -38,8 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -51,6 +50,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

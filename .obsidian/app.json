@@ -2,6 +2,6 @@
   "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "showIndentGuide": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showIndentGuide": false
 }
