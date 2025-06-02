@@ -38,8 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Animation"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
