@@ -4,7 +4,8 @@
 - Static: **Immobile** and **ignores all physics**. Only used for collision detection.
 
 #### Material
-- This is a _shared physics material_ that overrides individual collider materials for simplicity
+- This is a _shared physics material_ that overrides individual collider materials for simplicity 
+- Physical Material 2D
 
 #### Linear Damping
 - **Linear Damping** (also called **Drag**) is a property of the `Rigidbody2D` component that **slows down linear movement** (translation) over time. It simulates resistance like air/fluid friction or drag forces, preventing objects from moving indefinitely.
