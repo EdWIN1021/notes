@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "735d1fecb264971a",
+    "id": "866b744e35bb5579",
     "type": "split",
     "children": [
       {
-        "id": "6a51841b2f08232b",
+        "id": "49426663c0e908ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c164da4582a1d78a",
+            "id": "2a12041ab0fb01b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GLFW.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GLFW"
             }
           }
         ]
@@ -23,33 +27,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f074d4cbe95a2fdf",
+    "id": "4a7d63b7ec2138eb",
     "type": "split",
     "children": [
       {
-        "id": "95c73b62fcd80a5f",
+        "id": "fccd44e440ada242",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd896b8f4787a10",
+            "id": "b7d7b430a8371fe4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "23d76d373ea084d0",
+            "id": "b695828163473881",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Vitual",
+                "query": "UKismetMathLibrary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "94482625a9aea56a",
+            "id": "f6cf7f287c35becb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,28 +73,38 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "5de6e73819ccd606",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.5
   },
   "right": {
-    "id": "d339742f718534d1",
+    "id": "4422b81e3b580ef0",
     "type": "split",
     "children": [
       {
-        "id": "5027418783ba9113",
+        "id": "e10a211cbdaca755",
         "type": "tabs",
         "children": [
           {
-            "id": "a49d6c3ea9a41a88",
+            "id": "71f49061b08b58ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/UObject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +114,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UObject"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8cec9750ed313bf1",
+            "id": "20e4060ebff46e27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/UObject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UObject"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "637e67d33445746e",
+            "id": "d3b89968b21057a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +146,21 @@
             }
           },
           {
-            "id": "8ae06dbbca425f91",
+            "id": "6b546429cde06e0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/AAIController.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AAIController"
+              "title": "Outline"
             }
           },
           {
-            "id": "9f39af8c74fb62ab",
+            "id": "272cdcbe57b0a287",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -162,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,36 +187,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9dd896b8f4787a10",
+  "active": "2a12041ab0fb01b2",
   "lastOpenFiles": [
-    "Sound Attenuation.md",
+    "GLEW.md",
+    "GLFW.md",
+    "Vault.md",
+    "Temp.md",
+    "Reference/UObject/UObject.md",
+    "Tags",
+    "Reference/Reference.md",
+    "AttributeSet/AttributeSet.md",
     "Weapon Trail.md",
-    "Patrolling.md",
-    "Damage System.md",
-    "Macro",
-    "Struct",
-    "Class",
-    "Class/AController/AController.md",
-    "Class/AAIController/AAIController.md",
-    "Class/AActor/AActor.md",
-    "Class/AActor/Property/NetUpdateFrequency.md",
-    "Class/UObject/UObject.md",
-    "Class/AController/Function/GetPawn.md",
-    "Reference.md",
-    "Class/AAIController/Function/MoveTo.md",
-    "Class/AAIController/Function/MoveToActor.md",
-    "Class/AAIController/Function/MoveToLocation.md",
-    "Class/AActor/Function/ActorHasTag.md",
-    "Class/UObject",
-    "Class/AController/Property",
-    "Class/AController/Function",
-    "Class/AController",
-    "Class/AAIController/Property",
-    "Class/AAIController/Function",
-    "Class/AAIController",
-    "Class/AActor.md",
-    "Function/AController.md",
-    "q.md",
-    "create a link.md"
+    "Sound Attenuation.md",
+    "Root Motion.md",
+    "Animation/Animation Controller.md",
+    "Animation/Animator.md",
+    "Timer.md",
+    "Player.md",
+    "UFUNCTION.md",
+    "Reference/USceneComponent/USceneComponent.md",
+    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
+    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
+    "Reference/UProjectileMovementComponent/InitialSpeed.md",
+    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
+    "Reference/UObject/GetWorld.md",
+    "Reference/UObject/GetLifetimeReplicatedProps.md",
+    "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
+    "Reference/UKismetMathLibrary/DegAcos.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
+    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
+    "Reference/USceneComponent",
+    "Reference/UProjectileMovementComponent",
+    "Reference/UPrimitiveComponent",
+    "Reference/UKismetMathLibrary",
+    "Reference/UObject",
+    "Reference/UKismetAnimationLibrary",
+    "Reference/UInputComponent",
+    "Reference/UGameplayStatics",
+    "Reference/UGameplayAbility",
+    "Reference/Untitled.canvas",
+    "Reference/屏幕截图 2025-05-20 134231.png"
   ]
 }
