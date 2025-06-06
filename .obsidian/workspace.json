@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8b097b0e89248681",
+        "id": "49426663c0e908ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c50ee7e2ae776d77",
+            "id": "2a12041ab0fb01b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/UAbilitySystemComponent/ClearAbility.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ClearAbility"
-            }
-          },
-          {
-            "id": "c5c70746a8b9608d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2D/Rigidbody 2D.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rigidbody 2D"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UGameplayA",
+                "query": "UKismetMathLibrary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +71,7 @@
             }
           },
           {
-            "id": "1dcc31f1ee1af797",
+            "id": "5de6e73819ccd606",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -105,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 322.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -190,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,44 +183,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c5c70746a8b9608d",
+  "active": "2a12041ab0fb01b2",
   "lastOpenFiles": [
-    "Player.md",
-    "Ground Detection.md",
-    "Gizmos/DrawLine.md",
-    "Gizmos/Gizmos.md",
-    "Gizmos",
-    "Animation/Animation.md",
-    "Input System.md",
-    "2D/2D.md",
-    "Capsule Collider 2D.md",
-    "Reference/UGameplayCueNotify_Actor/UGameplayCueNotify_Actor.md",
-    "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
-    "Reference/UGameplayCueNotify_Static/UGameplayCueNotify_Static.md",
-    "Reference/UGameplayCueNotify_Static",
-    "Reference/Reference.md",
+    "GLFW.md",
+    "GLEW.md",
+    "Vault.md",
     "Temp.md",
-    "Reference/UGameplayCueNotify_Actor",
-    "Reference/UAbilitySystemComponent/ClearAbility.md",
-    "Reference/UAbilitySystemComponent/GetActivatableGameplayAbilitySpecsByAllMatchingTags.md",
-    "Reference/UAbilitySystemComponent/UAbilitySystemComponent.md",
-    "Reference/UGameplayAbility/UGameplayAbility.md",
-    "Hit React System.md",
-    "Reference/USceneComponent/USceneComponent.md",
-    "Reference/UProjectileMovementComponent/InitialSpeed.md",
-    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
-    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
-    "Reference/UKismetMathLibrary/DegAcos.md",
-    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
-    "Reference/UKismetAnimationLibrary/CalculateDirection.md",
     "Reference/UObject/UObject.md",
+    "Tags",
+    "Reference/Reference.md",
+    "AttributeSet/AttributeSet.md",
+    "Weapon Trail.md",
+    "Sound Attenuation.md",
+    "Root Motion.md",
+    "Animation/Animation Controller.md",
+    "Animation/Animator.md",
+    "Timer.md",
+    "Player.md",
+    "UFUNCTION.md",
+    "Reference/USceneComponent/USceneComponent.md",
+    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
+    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
+    "Reference/UProjectileMovementComponent/InitialSpeed.md",
+    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
+    "Reference/UObject/GetWorld.md",
+    "Reference/UObject/GetLifetimeReplicatedProps.md",
+    "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
+    "Reference/UKismetMathLibrary/DegAcos.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
+    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
     "Reference/USceneComponent",
-    "Reference/UKismetMathLibrary",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
+    "Reference/UKismetMathLibrary",
     "Reference/UObject",
     "Reference/UKismetAnimationLibrary",
     "Reference/UInputComponent",
+    "Reference/UGameplayStatics",
+    "Reference/UGameplayAbility",
     "Reference/Untitled.canvas",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]
