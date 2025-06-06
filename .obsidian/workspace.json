@@ -11,10 +11,14 @@
             "id": "2a12041ab0fb01b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Input System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Input System"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "5de6e73819ccd606",
+            "id": "f435a7eb4bcd7585",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -185,6 +189,17 @@
   },
   "active": "2a12041ab0fb01b2",
   "lastOpenFiles": [
+    "2D/2D.md",
+    "Gizmos/Gizmos.md",
+    "2D/Sprite Editor.md",
+    "2D/Rigidbody 2D.md",
+    "Player.md",
+    "Animation/Animator.md",
+    "Animation/Animation Controller.md",
+    "Animation/Animation.md",
+    "Ground Detection.md",
+    "Capsule Collider 2D.md",
+    "Gizmos/DrawLine.md",
     "GLFW.md",
     "GLEW.md",
     "Vault.md",
@@ -196,22 +211,11 @@
     "Weapon Trail.md",
     "Sound Attenuation.md",
     "Root Motion.md",
-    "Animation/Animation Controller.md",
-    "Animation/Animator.md",
     "Timer.md",
-    "Player.md",
     "UFUNCTION.md",
     "Reference/USceneComponent/USceneComponent.md",
     "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
     "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
-    "Reference/UProjectileMovementComponent/InitialSpeed.md",
-    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
-    "Reference/UObject/GetWorld.md",
-    "Reference/UObject/GetLifetimeReplicatedProps.md",
-    "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
-    "Reference/UKismetMathLibrary/DegAcos.md",
-    "Reference/UObject/CreateDefaultSubObject.md",
-    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",

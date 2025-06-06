@@ -1,3 +1,23 @@
+
+```cpp
+public float speed = 5;  
+public Rigidbody2D rb;
+
+anim.SetFloat("horizontal", Mathf.Abs(horizontal));  
+anim.SetFloat("vertical", Mathf.Abs(vertical));
+  
+rb.linearVelocity = new Vector2(horizontal, vertical) * speed;
+```
+
+
+## Flip
+
+```cpp
+transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
+```
+
+---
+
 Create -> Input Actions (Generate C# Class)
 Add Control Scheme (Device Type: Keyboard & Mouse)
 Create Action Map
